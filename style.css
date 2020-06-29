@@ -5,12 +5,17 @@ body {
  font-family: 'Apple Chancery';
 }
 
+.main-header {
+  font-weight: bold;
+  font-size: 50px;
+}
+
 #main {
   text-align: center;
-  position: fixed;
-  top: 50%;
-  left: 38%;
-  margin-top: -300px;
+  /* position: fixed; */
+  /* top: 50%;
+  left: 38%; */
+  margin-top: 73px;
   margin-left: -100px;
 }
 
@@ -26,17 +31,17 @@ a.nav-link-active {
 }
 .headshot {
   border-radius: 15%;
+  margin-left: 40%;
+
 }
 p.main-quote {
   font-style: oblique;
   color: #656565;
   border-radius: 15%;
   font-family: 'Snell Roundhand Cursive';
-}
-
-h1 {
-  font-weight: bold;
-  font-size: 50px;
+  width: 547px;
+  height: 30px;
+  margin-left: 35%;
 }
 
 #about-frida {
@@ -64,7 +69,7 @@ table {
 }
 
 .container {
-  margin-top: 15%
+  margin-top: 5%;
 }
 
 #pictures-content {
@@ -75,4 +80,24 @@ table {
   margin-top: 38px;
   margin-left: 110px;
   text-align: center;
+}
+
+.col {
+  flex-grow: 0;
+}
+
+.text-muted {
+  text-align: right;
+}
+.footer{
+  height: 51px;
+  text-align: right;
+  background-color: white;
+  opacity: 74%;
+}
+
+@media screen and (max-width: 400px) {
+  .footer {
+    display: none;
+  }
 }
