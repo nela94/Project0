@@ -25,11 +25,11 @@ body {
   margin-left: -100px;
 }
 
-.headshot {
+/* .headshot {
   border-radius: 15%;
   /* margin-left: 40%; */
 
-}
+/* }
 p.main-quote {
   font-style: oblique;
   color: #656565;
@@ -38,7 +38,7 @@ p.main-quote {
   width: 547px;
   height: 30px;
   margin-left: 35%;
-}
+} */ 
 
 #about-frida {
   position: sticky;

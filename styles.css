@@ -15,4 +15,15 @@ li a.nav-link-active {
   color: black;
   font-weight: bold; }
 
+.headshot, .main-quote {
+  border-radius: 15%; }
+
+.main-quote {
+  font-style: oblique;
+  color: #656565;
+  font-family: 'Snell Roundhand Cursive';
+  width: 547px;
+  height: 30px;
+  margin-left: 35%; }
+
 /*# sourceMappingURL=styles.css.map */

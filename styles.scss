@@ -25,3 +25,17 @@ li {
     font-weight: bold;
   }
 }
+
+.headshot {
+  border-radius: 15%;
+}
+
+.main-quote {
+  @extend .headshot;
+  font-style: oblique;
+  color: #656565;
+  font-family: 'Snell Roundhand Cursive';
+  width: 547px;
+  height: 30px;
+  margin-left: 35%;
+}
