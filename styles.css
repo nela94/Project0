@@ -7,4 +7,12 @@ p.main-quote {
 table {
   background-color: #80ced669; }
 
+a nav-link {
+  background: #FFFFFF;
+  color: black;
+  font-weight: bold; }
+a nav-link-active {
+  color: black;
+  font-weight: bold; }
+
 /*# sourceMappingURL=styles.css.map */

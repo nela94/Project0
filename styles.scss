@@ -12,3 +12,16 @@ p.main-quote {
 table {
   background-color: $lightblue;
 }
+
+
+a {
+  nav-link {
+  background: #FFFFFF;
+  color: black;
+  font-weight: bold;
+  }
+  nav-link-active {
+    color: black;
+    font-weight: bold;
+  }
+}

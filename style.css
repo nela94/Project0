@@ -25,16 +25,6 @@ body {
   margin-left: -100px;
 }
 
-a.nav-link {
-  background: #FFFFFF;
-  color: black;
-  font-weight: bold;
-}
-
-a.nav-link-active {
-  color: black;
-  font-weight: bold;
-}
 .headshot {
   border-radius: 15%;
   /* margin-left: 40%; */
