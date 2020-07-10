@@ -7,11 +7,11 @@ p.main-quote {
 table {
   background-color: #80ced669; }
 
-a nav-link {
+li a.nav-link {
   background: #FFFFFF;
   color: black;
   font-weight: bold; }
-a nav-link-active {
+li a.nav-link-active {
   color: black;
   font-weight: bold; }
 

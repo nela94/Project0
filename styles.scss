@@ -14,13 +14,13 @@ table {
 }
 
 
-a {
-  nav-link {
+li {
+  a.nav-link {
   background: #FFFFFF;
   color: black;
   font-weight: bold;
   }
-  nav-link-active {
+  a.nav-link-active {
     color: black;
     font-weight: bold;
   }
