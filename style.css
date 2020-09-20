@@ -4,13 +4,12 @@ body {
  background-repeat: no-repeat center center fixed;
  background-size: cover;
  font-family: 'Apple Chancery';
- /* position: fixed; */
  height: 100%;
  width: 100%;
 
 }
 
-.main-header {
+h1.main-header {
   font-weight: bold;
   font-size: 50px;
 }
@@ -18,9 +17,6 @@ body {
 #main {
   text-align: center;
   position: relative;
-  /* display: flex; */
-  /* top: 50%;
-  left: 38%; */
   margin-top: 73px;
   margin-left: -100px;
 }
@@ -76,10 +72,6 @@ table {
   background-color: white;
   opacity: 74%;
 }
-
-/* .footer-container {
-    margin-top: 274px;
-} */
 
 @media screen and (max-width: 400px) {
   footer {
